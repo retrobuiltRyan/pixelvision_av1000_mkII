@@ -22,3 +22,12 @@ Desktop sized multi-format video display monitor for HDMI and legacy analog vide
 | Frequency | 60 Hz |
 | Panel Type / Model | a-Si TFT-LCD, LCM / LP097QX1-SPC1 |
 | Brightness | 440 cd/m² |
+
+
+Electrical Diagram
+<img width="1161" height="652" alt="image" src="https://github.com/user-attachments/assets/c97a93ab-5949-48a2-af40-79a4b231f512" /> <br>
+
+
+Add BoM
+
+and Filament estimates with orientation on build plates
