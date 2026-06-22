@@ -8,8 +8,8 @@ Desktop sized multi-format video display monitor for HDMI and legacy analog vide
 | Viewable Size | 9.7” [4:3 ratio] |
 | Input Signals | HDMI [2048×1536]; VGA [1920×1080]; YPbPr, S-video, Composite [480p] |
 | Audio Input/Output | Analog 3.5mm stereo |
-| Speaker Output | Stereo (2 × 5 watt) |
-| Power Consumption | 20 watts? |
+| Speaker Output | Stereo (5 watt) |
+| Power Consumption | 10 watts (2w standby) |
 | Dimensions (W × H × D) | 248 × 205 × 192 mm (9.76 × 8.07 × 7.56 inches) |
 | Weight | 1350 g |
 
@@ -28,6 +28,32 @@ Electrical Diagram
 <img width="1161" height="652" alt="image" src="https://github.com/user-attachments/assets/c97a93ab-5949-48a2-af40-79a4b231f512" /> <br>
 
 
-Add BoM
+##Bill of Materials
+| Item | Description | Vendor Link | Cost/each (USD) | Qty | Line Total (USD) |
+|------|-------------|-------------|----------------:|----:|-----------------:|
+| 1 | Speaker Dayton Audio CE32A-4 1-1/4" | parts-express | $3.58 | 2 | $7.16 |
+| 1 alt | Speaker Visaton FR7-4 2.5" | parts-express | $6.47 | 2 | $12.94 |
+| 2 | LCD 9.7" 2048×1536 HDMI | aliexpress | $50.60 | 1 | $50.60 |
+| 3 | M2.6×10 Thread Forming Screw | aliexpress | $0.04 | 70 | $2.80 |
+| 4 | HDMI extension 25 cm | aliexpress | $2.69 | 1 | $2.69 |
+| 5 | Scan Line Converter | aliexpress | $47.64 | 1 | $47.64 |
+| 6 | Filament (PLA, 1 g) | any | $0.02 | 877 | $17.54 |
+| 7 | Audio Amp PAM8406 | aliexpress | $6.48 | 1 | $6.48 |
+| 8 | M6×30 Steel Phillips Flat Head Screw | mcmaster | $0.13 | 1 | $0.13 |
+| 8 alt | M6×35 Steel Phillips Flat Head Screw | mcmaster | $0.18 | 1 | $0.18 |
+| 10 | M6 Nylon Lock Nut | mcmaster | $0.08 | 1 | $0.08 |
+| | | | | **Total** | **$148.24** |
 
-and Filament estimates with orientation on build plates
+
+##3D printing
+| Filament totals                              | Grams (g) | Cost/gram | Line total | Print time (hrs) |
+|----------------------------------------------|----------:|----------:|-----------:|-----------------:|
+| Body Rear                                    | 416       | $0.02     | $8.32      | 14               |
+| Body Front Bezel                             | 146       |           | $2.92      | 3.75             |
+| Yoke bulge                                   | 65        |           | $1.30      | 2.75             |
+| LCD bracket                                  | 42        |           | $0.84      | 1                |
+| Electronics Mount                            | 26        |           | $0.52      | 1                |
+| IO panel                                     | 16        |           | $0.32      | 0.75             |
+| Speaker, LCD brackets (x2) + buttons         | 36        |           | $0.72      | 1.55             |
+| Swivel Base                                  | 130       |           | $2.60      | 5                |
+| **Total**                                    | **877**   |           | **$17.54** | **29.8**         |
