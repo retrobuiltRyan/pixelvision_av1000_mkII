@@ -25,11 +25,11 @@ Desktop sized multi-format video display monitor for HDMI and legacy analog vide
 | Brightness | 440 cd/m² |
 
 
-Electrical Diagram
+### Electrical Diagram
 <img width="1161" height="652" alt="image" src="https://github.com/user-attachments/assets/c97a93ab-5949-48a2-af40-79a4b231f512" /> <br>
 
 
-##Bill of Materials
+### Bill of Materials
 | Item | Description | Vendor Link | Cost/each (USD) | Qty | Line Total (USD) |
 |------|-------------|-------------|----------------:|----:|-----------------:|
 | 1 | Speaker Dayton Audio CE32A-4 1-1/4" | [parts-express](https://www.parts-express.com/Dayton-Audio-CE32A-4-1-1-4-Mini-Speaker-4-Ohm-285-103) | $3.58 | 2 | $7.16 |
@@ -48,7 +48,7 @@ Electrical Diagram
 | | | | | **Total** | **$145.76** |
 
 
-##3D printing
+### 3D printing 
 | Filament totals                              | Grams (g) | Cost/gram | Line total | Print time (hrs) |
 |----------------------------------------------|----------:|----------:|-----------:|-----------------:|
 | Body Rear                                    | 416       | $0.02     | $8.32      | 14               |
