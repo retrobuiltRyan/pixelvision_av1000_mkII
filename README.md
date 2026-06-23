@@ -32,18 +32,20 @@ Electrical Diagram
 ##Bill of Materials
 | Item | Description | Vendor Link | Cost/each (USD) | Qty | Line Total (USD) |
 |------|-------------|-------------|----------------:|----:|-----------------:|
-| 1 | Speaker Dayton Audio CE32A-4 1-1/4" | parts-express | $3.58 | 2 | $7.16 |
-| 1 alt | Speaker Visaton FR7-4 2.5" | parts-express | $6.47 | 2 | $12.94 |
-| 2 | LCD 9.7" 2048×1536 HDMI | aliexpress | $50.60 | 1 | $50.60 |
-| 3 | M2.6×10 Thread Forming Screw | aliexpress | $0.04 | 70 | $2.80 |
-| 4 | HDMI extension 25 cm | aliexpress | $2.69 | 1 | $2.69 |
-| 5 | Scan Line Converter | aliexpress | $47.64 | 1 | $47.64 |
-| 6 | Filament (PLA, 1 g) | any | $0.02 | 877 | $17.54 |
-| 7 | Audio Amp PAM8406 | aliexpress | $6.48 | 1 | $6.48 |
-| 8 | M6×30 Steel Phillips Flat Head Screw | mcmaster | $0.13 | 1 | $0.13 |
-| 8 alt | M6×35 Steel Phillips Flat Head Screw | mcmaster | $0.18 | 1 | $0.18 |
-| 10 | M6 Nylon Lock Nut | mcmaster | $0.08 | 1 | $0.08 |
-| | | | | **Total** | **$148.24** |
+| 1 | Speaker Dayton Audio CE32A-4 1-1/4" | [parts-express](https://www.parts-express.com/Dayton-Audio-CE32A-4-1-1-4-Mini-Speaker-4-Ohm-285-103) | $3.58 | 2 | $7.16 |
+| 1 alt | Speaker Visaton FR7-4 2.5" | [parts-express](https://www.parts-express.com/Visaton-FR7-4-2-1-2-Full-Range-Driver-4-Ohm-292-638) | $6.47 | 2 | $12.94 |
+| 2 | LCD 9.7" 2048×1536 HDMI | [aliexpress](https://www.aliexpress.us/item/3256803412961622.html) | $50.60 | 1 | $50.60 |
+| 3 | M2.6 x 10mm Thread Forming Screw | [aliexpress](https://www.aliexpress.us/item/3256807955659503.html) | $0.04 | 70 | $2.80 |
+| 4 | M3 x 6mm button head screws | any | $0.03 | 3 | $0.09 |
+| 5 | M3 x 11mm F/F standoff | any| $0.10 | 3 | $0.30 |
+| 6 | Scan Line Converter | [aliexpress](https://www.aliexpress.us/item/3256805577379481.html) | $47.64 | 1 | $47.64 |
+| 7 | Filament (PLA, 1 g) | any | $0.02 | 877 | $17.54 |
+| 8 | Audio Amp PAM8406 | [aliexpress](https://www.aliexpress.us/item/3256807320222817.html) | $6.48 | 1 | $6.48 |
+| 9 | M6×30 Steel Phillips Flat Head Screw | [mcmaster](https://www.mcmaster.com/91420A438/) | $0.13 | 1 | $0.13 |
+| 10 | M6 Nylon Lock Nut | [mcmaster](https://www.mcmaster.com/90631A114/) | $0.08 | 1 | $0.08 |
+| 11 | HDMI Super Slim Cable 1 ft | [parts-express](https://www.parts-express.com/Audtek-TS1-1-ft.-Super-Slim-Ultra-HD-HDMI-2.0-Cable-4K60-Hz-HDR-YCbCr-444-18-Gbps-180-1318) | $3.97 | 1 | $3.97 |
+| 12 | Audio Cable Slim 1 ft 3.5 mm | [parts-express](https://www.parts-express.com/3.5mm-Male-to-Male-Slim-Plug-Shielded-Audio-Cable-1-ft.-240-051)| $1.59 | 1 | $1.59 |
+| | | | | **Total** | **$145.76** |
 
 
 ##3D printing
