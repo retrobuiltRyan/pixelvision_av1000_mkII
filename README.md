@@ -1,7 +1,7 @@
 # pixelvision_av1000_mkII
 Desktop sized multi-format video display monitor for HDMI and legacy analog video input with built-in speakers.
 
-<img width="3300" height="2550" alt="Monitor Assy" src="https://github.com/user-attachments/assets/c40a9806-9550-4686-907f-0d086fa0df67" /> <br>
+<img width="3109" height="2348" alt="Monitor Assy" src="https://github.com/user-attachments/assets/74e7d2b1-e9db-4bce-bb7d-fe05635f5e06" /> <br>
 ### Hardware Overview
 
 | Specification | Details |
