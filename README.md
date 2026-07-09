@@ -1,4 +1,6 @@
 # pixelvision_av1000_mkII
+<img width="1920" height="1080" alt="vlcsnap-2026-07-08-20h05m43s921" src="https://github.com/user-attachments/assets/031263c1-25af-4a4d-906e-2b072378eb2f" />
+
 Desktop sized multi-format video display monitor for HDMI and legacy analog video input with built-in speakers.
 Watch the video (assembly section @14:39)
 ## https://youtu.be/MTYouu-5v1Q <br> 
