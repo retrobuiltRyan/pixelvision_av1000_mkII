@@ -1,10 +1,12 @@
 # pixelvision_av1000_mkII
-<img width="1920" height="1080" alt="thummnbail 3" src="https://github.com/user-attachments/assets/a7c19bd5-986f-4eff-a234-7d7eb987ef9a" />
-
 
 Desktop sized multi-format video display monitor for HDMI and legacy analog video input with built-in speakers.
-Watch the video (assembly section @14:39)
-## https://youtu.be/MTYouu-5v1Q <br> 
+Watch the video: (assembly section @14:39) <br>
+<a href="https://youtu.be/h4x5J-W30Yo" target="_blank">
+  <img src="https://img.youtube.com/vi/h4x5J-W30Yo/maxresdefault.jpg"
+       alt="Watch the video on YouTube"
+       width="800">
+</a> ## https://youtu.be/MTYouu-5v1Q <br> 
 <img width="3109" height="2348" alt="Monitor Assy" src="https://github.com/user-attachments/assets/74e7d2b1-e9db-4bce-bb7d-fe05635f5e06" /> <br>
 ### Hardware Overview
 
