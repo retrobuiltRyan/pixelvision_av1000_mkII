@@ -55,6 +55,9 @@ Watch the video: (assembly section @14:39) <br>
 
 
 ### 3D printing 
+<img width="931" height="705" alt="image" src="https://github.com/user-attachments/assets/5cda6bf1-2a1c-4914-a84f-20d3781a7284" />
+<br>
+
 | Filament totals                              | Grams (g) | Cost/gram | Line total | Print time (hrs) |
 |----------------------------------------------|----------:|----------:|-----------:|-----------------:|
 | Body Rear                                    | 416       | $0.02     | $8.32      | 14               |
