@@ -1,7 +1,7 @@
 # PixelVision_AV-1000_mkII
 
 Desktop sized multi-format video display monitor for HDMI and legacy analog video input with built-in speakers.
-Watch the video: (assembly section @14:39) <br>
+Watch the video: (assembly section @14:51) <br>
 <a href="https://youtu.be/h4x5J-W30Yo" target="_blank">
   <img src="https://img.youtube.com/vi/h4x5J-W30Yo/maxresdefault.jpg"
        alt="Watch the video on YouTube"
@@ -20,7 +20,7 @@ Watch the video: (assembly section @14:39) <br>
 | Dimensions (W × H × D) | 248 × 205 × 192 mm (9.76 × 8.07 × 7.56 inches) |
 | Weight | 1350 g |
 
-### IPS Panel Details
+### IPS [iPad 3/4] Panel Details
 
 | Specification | Details |
 |---|---|
@@ -59,12 +59,14 @@ Watch the video: (assembly section @14:39) <br>
 | 18 | 12V 3A DC Power Supply (2.1 × 5.5mm) | [parts-express](https://www.parts-express.com/12V-DC-3A-AC-Adapter-Power-Supply-with-2.1-x-5.5mm-Center-Positive-Tip-with-Polarized-AC-Co-129-1204) | 7.00 | 1 | $7.00 |
 | 19 | Perler Beads (plastic M2.5 washers) | any | 0.01 | 30 | $0.30 |
 | 20 | Electronics incidentals: wire, heat shrink, that one drop of hot glue | [any](#) | 1.00 | 1 | $1.00 |
+| | **TOTAL** | | | | **$167.32** |
 
 
 
 ### 3D printing 
 <img width="931" height="705" alt="image" src="https://github.com/user-attachments/assets/5cda6bf1-2a1c-4914-a84f-20d3781a7284" />
 <br>
+15% infill, tree supports where applicable
 
 | Filament totals                              | Grams (g) | Cost/gram | Line total | Print time (hrs) |
 |----------------------------------------------|----------:|----------:|-----------:|-----------------:|
