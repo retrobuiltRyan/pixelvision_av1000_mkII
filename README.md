@@ -62,6 +62,9 @@ Watch the video: (assembly section @14:51) <br>
 | 21 | Electronics incidentals: wire, heat shrink, that one drop of hot glue | [any](#) | 1.00 | 1 | $1.00 |
 | | **TOTAL** | | | | **$167.82** |
 
+## Special Tools
+You need a long reach (min 100mm) Torx T8 drive [like this](https://www.aliexpress.us/item/3256805848633499.html). If you source different M2.6 thread forming screws, then you need that matching bit drive tool.
+<img width="1126" height="279" alt="image" src="https://github.com/user-attachments/assets/30746080-0a42-46ff-9035-e2cc8a4a6e62" /> <br>
 
 
 ## 3D Printing 
