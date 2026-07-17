@@ -12,4 +12,4 @@ A 3.5mm TRS audio jack passthrough to reroute signals in the monitor enclosure. 
 
 | Reference | Quantity | DigiKey P/N |
 |-----------|---------:|-------------|
-| J1, J2 | 2 | CP1-3524NG-ND |
+| J1, J2 | 2 | CP1-3523N-ND |
