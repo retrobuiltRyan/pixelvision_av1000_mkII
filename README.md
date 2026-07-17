@@ -91,7 +91,11 @@ These parts need to be printed. 15% infill, tree supports where applicable. <br>
 (optional, but very helpful with internal wiring and matching the build shown in the video)
 <img width="4592" height="1003" alt="P1130062" src="https://github.com/user-attachments/assets/1888fa9c-728d-4895-b13a-a0db41f95d0b" />
 
+
+
+
+
 #### Fits this LCD panel (ipad 3/4 replacement screen):
 <img width="1015" height="650" alt="image" src="https://github.com/user-attachments/assets/df83ed1a-a23d-49c9-959f-2db0d130e6d9" />
 
-
+Like my work? This project comsumed ~400 hours of my life. If you want to support me and future work consider a [donation](https://www.paypal.com/donate/?hosted_button_id=JNT5P3N3XAK2E).
