@@ -8,7 +8,7 @@ Watch the video: (assembly section @14:51) <br>
        width="800">
 </a> ## https://youtu.be/MTYouu-5v1Q <br> 
 <img width="3109" height="2348" alt="Monitor Assy" src="https://github.com/user-attachments/assets/74e7d2b1-e9db-4bce-bb7d-fe05635f5e06" /> <br>
-### Hardware Overview
+## Hardware Overview
 
 | Specification | Details |
 |---|---|
@@ -31,11 +31,11 @@ Watch the video: (assembly section @14:51) <br>
 | Brightness | 440 cd/m² |
 
 
-### Electrical Diagram
+## Electrical Diagram
 <img width="1161" height="652" alt="image" src="https://github.com/user-attachments/assets/c97a93ab-5949-48a2-af40-79a4b231f512" /> <br>
 
 
-### Bill of Materials
+## Bill of Materials
 | Item | Description | Vendor Link | Cost/each (USD) | Qty | Line Total (USD) |
 |------|-------------|-------------|----------------:|----:|-----------------:|
 | 1 alt | Speaker Dayton Audio CE32A-4 1-1/4" | [parts-express](https://www.parts-express.com/Dayton-Audio-CE32A-4-1-1-4-Mini-Speaker-4-Ohm-285-103) | 3.58 | 2 | $7.16 |
@@ -63,11 +63,13 @@ Watch the video: (assembly section @14:51) <br>
 
 
 
-### 3D printing 
+## 3D Printing 
+These parts need to be printed. 15% infill, tree supports where applicable. <br>
+*The two thin brackets that push the LCD against the front bezel are a mirrored pair. You need to clone + mirror in your slicer.* <br>
 <img width="931" height="705" alt="image" src="https://github.com/user-attachments/assets/5cda6bf1-2a1c-4914-a84f-20d3781a7284" />
 <br>
 
-15% infill, tree supports where applicable. <br>
+
  *Critical Tip!* <br>  Absolutely block supports in blind screw holes. 
 <img width="1213" height="669" alt="image" src="https://github.com/user-attachments/assets/10e84279-96fe-4048-ac0d-e412955f39c3" />
 
@@ -85,7 +87,7 @@ Watch the video: (assembly section @14:51) <br>
 | Swivel Base                                  | 130       |           | $2.60      | 5                |
 | **Total**                                    | **877**   |           | **$17.54** | **29.8**         |
 
-### PCBs 
+## PCBs 
 (optional, but very helpful with internal wiring and matching the build shown in the video)
 <img width="4592" height="1003" alt="P1130062" src="https://github.com/user-attachments/assets/1888fa9c-728d-4895-b13a-a0db41f95d0b" />
 
