@@ -1,4 +1,4 @@
-# PixelVision_AV-1000_mkII
+# PixelVision_AV-1000_MkII
 
 Desktop sized multi-format video display monitor for HDMI and legacy analog video input with built-in speakers.
 Watch the video: (assembly section @14:51) <br>
