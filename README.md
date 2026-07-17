@@ -52,7 +52,7 @@ Watch the video: (assembly section @14:51) <br>
 | 11 | HDMI Super Slim Cable, 1 ft | [parts-express](https://www.parts-express.com/Audtek-TS1-1-ft.-Super-Slim-Ultra-HD-HDMI-2.0-Cable-4K60-Hz-HDR-YCbCr-444-18-Gbps-180-1318) | 3.97 | 1 | $3.97 |
 | 12 | Audio Cable, Slim, 1 ft, 3.5mm | [parts-express](https://www.parts-express.com/3.5mm-Male-to-Male-Slim-Plug-Shielded-Audio-Cable-1-ft.-240-051) | 1.59 | 1 | $1.59 |
 | 13 | DC Power Jack, Panel Mount (2.1 × 5.5mm) | [aliexpress](https://www.aliexpress.us/item/3256808307457555.html) | 0.45 | 2 | $0.90 |
-| 14 | Rocker Switch | [parts-express](https://www.parts-express.com/SPST-Miniature-Rocker-Switch-060-670) | 1.40 | 1 | $1.40 |
+| 14 | Rocker Switch panel mount (19 x 13mm) | [parts-express](https://www.parts-express.com/SPST-Miniature-Rocker-Switch-060-670) or [digikey](https://www.digikey.com/en/products/detail/e-switch/RA11131121/2720267) | 1.40 | 1 | $1.40 |
 | 15 | Audio PCB (optional, but helpful) | custom DIY | 2.00 | 1 | $2.00 |
 | 16 | Power PCB (optional, but helpful) | custom DIY | 3.00 | 1 | $3.00 |
 | 17 | Rubber Feet (2 × 10mm), Round | [aliexpress](https://www.aliexpress.us/item/3256801658571146.html) | 0.10 | 4 | $0.40 |
