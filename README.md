@@ -66,7 +66,12 @@ Watch the video: (assembly section @14:51) <br>
 ### 3D printing 
 <img width="931" height="705" alt="image" src="https://github.com/user-attachments/assets/5cda6bf1-2a1c-4914-a84f-20d3781a7284" />
 <br>
-15% infill, tree supports where applicable
+
+15% infill, tree supports where applicable. <br>
+ *Critical Tip!* <br>  Absolutely block supports in blind screw holes. 
+<img width="1213" height="669" alt="image" src="https://github.com/user-attachments/assets/10e84279-96fe-4048-ac0d-e412955f39c3" />
+
+
 
 | Filament totals                              | Grams (g) | Cost/gram | Line total | Print time (hrs) |
 |----------------------------------------------|----------:|----------:|-----------:|-----------------:|
