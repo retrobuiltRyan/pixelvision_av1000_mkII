@@ -104,7 +104,7 @@ These parts need to be printed. 15% infill, tree supports where applicable. <br>
 
 ## Support Me
 If you want to support me and future work consider a [donation](https://www.paypal.com/donate/?hosted_button_id=JNT5P3N3XAK2E).
-You can also purchase a basic [fastener kit for this project](https://www.ebay.com/itm/147443247342). This directly supports me, saves you some time sourcing parts, and clears out my surplus junk from the design process. 
+**You can also purchase a basic [fastener kit for this project](https://www.ebay.com/itm/147443247342).** This directly supports me, saves you some time sourcing parts, and clears out my surplus junk from the design process. 
 <img width="1690" height="942" alt="small" src="https://github.com/user-attachments/assets/013bd662-8577-4c58-afd6-afcb9fff3b58" />
 <br>
 Need a full-time hardware engineer? Hire me. DM me on twitter [@retrobuiltgames](https://x.com/retrobuiltgames)
