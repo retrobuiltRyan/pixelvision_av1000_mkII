@@ -58,7 +58,7 @@ Watch the video: (assembly section @14:51) <br>
 | 17 | Rubber Feet (2 × 10mm), Round | [aliexpress](https://www.aliexpress.us/item/3256801658571146.html) | 0.10 | 4 | $0.40 |
 | 18 | 12V 3A DC Power Supply (2.1 × 5.5mm) | [parts-express](https://www.parts-express.com/12V-DC-3A-AC-Adapter-Power-Supply-with-2.1-x-5.5mm-Center-Positive-Tip-with-Polarized-AC-Co-129-1204) | 7.00 | 1 | $7.00 |
 | 19 | Perler Beads (plastic M2.5 washers) | any | 0.01 | 30 | $0.30 |
-| 20 | Compression Spring, ~10mm dia, 25-35mm length | any | 0.50 | 1 | 0.50|
+| 20 | Compression Spring, ~10mm OD, 25-35mm length, ~0.8mm wire dia, SS | any | 0.50 | 1 | 0.50|
 | 21 | Electronics incidentals: wire, heat shrink, that one drop of hot glue | [any](#) | 1.00 | 1 | $1.00 |
 | | **TOTAL** | | | | **$167.82** |
 
